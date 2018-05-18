@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace starikcetin.ManualTracking2D
+namespace starikcetin.Tracking2D
 {
     /// <summary>
     /// Contains info about the AABB of a TrackedObjectData.

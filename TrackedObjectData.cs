@@ -3,7 +3,7 @@ using System.Linq;
 using starikcetin.UnityCommon.Utils.Common;
 using UnityEngine;
 
-namespace starikcetin.ManualTracking2D
+namespace starikcetin.Tracking2D
 {
     /// <summary>
     /// Contains position and AABB data of a tracked GameObject.

@@ -3,7 +3,7 @@ using starikcetin.UnityCommon.Utils.Calculation;
 using starikcetin.UnityCommon.Utils.CodePatterns;
 using UnityEngine;
 
-namespace starikcetin.ManualTracking2D
+namespace starikcetin.Tracking2D
 {
     public class ObjectTracker : GlobalSingleton<ObjectTracker>
     {
