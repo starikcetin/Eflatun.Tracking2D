@@ -3,7 +3,7 @@ using System.Linq;
 using Eflatun.UnityCommon.Utils.Common;
 using UnityEngine;
 
-namespace starikcetin.Tracking2D
+namespace Eflatun.Tracking2D
 {
     /// <summary>
     /// Contains position and AABB data of a tracked GameObject.

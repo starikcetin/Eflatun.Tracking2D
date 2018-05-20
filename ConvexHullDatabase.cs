@@ -4,7 +4,7 @@ using Eflatun.UnityCommon.Utils.Calculation;
 using Eflatun.UnityCommon.Utils.CodePatterns;
 using UnityEngine;
 
-namespace starikcetin.Tracking2D
+namespace Eflatun.Tracking2D
 {
     public class ConvexHullDatabase : GlobalSingleton<ConvexHullDatabase>
     {
