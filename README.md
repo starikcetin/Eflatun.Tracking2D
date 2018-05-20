@@ -1,4 +1,4 @@
-# starikcetin.Tracking2D #
+# Eflatun.Tracking2D #
 
 This was an attempt to replace Unity's built-in 2D physics engine wtih only the features I wanted.
 
@@ -8,6 +8,6 @@ Depends on [starikcetin.UnityCommon](https://github.com/starikcetin/starikcetin.
 
 License
 ---
-MIT license. Refer to the [LICENSE](https://github.com/starikcetin/starikcetin.Tracking2D/blob/master/LICENSE) file.
+MIT license. Refer to the [LICENSE](https://github.com/starikcetin/Eflatun.Tracking2D/blob/master/LICENSE) file.
 
 Copyright (c) 2018 S. Tarık Çetin
