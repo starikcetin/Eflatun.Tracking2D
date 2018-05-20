@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using starikcetin.UnityCommon.Utils.Common;
+using Eflatun.UnityCommon.Utils.Common;
 using UnityEngine;
 
 namespace starikcetin.Tracking2D

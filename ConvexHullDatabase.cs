@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using starikcetin.UnityCommon.Expansions;
-using starikcetin.UnityCommon.Utils.Calculation;
-using starikcetin.UnityCommon.Utils.CodePatterns;
+using Eflatun.Expansions;
+using Eflatun.UnityCommon.Utils.Calculation;
+using Eflatun.UnityCommon.Utils.CodePatterns;
 using UnityEngine;
 
 namespace starikcetin.Tracking2D
