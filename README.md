@@ -2,7 +2,9 @@
 
 This was an attempt to replace Unity's built-in 2D physics engine wtih only the features I wanted.
 
-It kind of did what I wanted it to: it was predictable, constant, and stable. But performance-wise it wasn't good enough.
+**As of right now, this code is not throughly tested and doesn't have a shiny performance.**
+
+I *may* convert this library to use Unity ECS once it becomes production-ready, but it is not certain.
 
 Dependencies
 ---
