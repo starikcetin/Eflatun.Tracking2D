@@ -1,0 +1,8 @@
+[submodule "submodules/Eflatun.UnityCommon"]
+	path = submodules/Eflatun.UnityCommon
+	url = https://github.com/starikcetin/Eflatun.UnityCommon
+	branch = master
+[submodule "submodules/Eflatun.Expansions"]
+	path = submodules/Eflatun.Expansions
+	url = https://github.com/starikcetin/Eflatun.Expansions
+	branch = master
