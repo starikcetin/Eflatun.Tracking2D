@@ -1,3 +1,11 @@
-﻿{
-	"name": "Eflatun.Tracking2D"
+{
+    "name": "Eflatun.Tracking2D",
+    "references": [
+        "Eflatun.Expansions",
+        "Eflatun.UnityCommon"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
 }
