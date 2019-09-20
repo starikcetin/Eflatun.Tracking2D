@@ -2,6 +2,7 @@
   "dependencies": {
     "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.2",
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#0.9.1",
+    "com.starikcetin.eflatun.expansions": "https://github.com/starikcetin/Eflatun.Expansions.git#0.1.1",
     "com.starikcetin.eflatun.unitycommon": "https://github.com/starikcetin/Eflatun.UnityCommon.git#0.0.3",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
@@ -41,6 +42,10 @@
     "com.starikcetin.eflatun.unitycommon": {
       "hash": "a05964474543e8683202f4eecf072a25fd47bc6b",
       "revision": "0.0.3"
+    },
+    "com.starikcetin.eflatun.expansions": {
+      "hash": "7705d836787be6e5f99a18feaec2a74427295def",
+      "revision": "0.1.1"
     }
   }
 }
