@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using Eflatun.UnityCommon.Utils.Common;
+using starikcetin.Eflatun.UnityCommon.Utils.Common;
 using UnityEngine;
 
-namespace Eflatun.Tracking2D
+namespace starikcetin.Eflatun.Tracking2D
 {
     /// <summary>
     /// Contains position and AABB data of a tracked GameObject.

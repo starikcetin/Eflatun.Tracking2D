@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Eflatun.Tracking2D
+namespace starikcetin.Eflatun.Tracking2D
 {
     /// <summary>
     /// This is a dummy component to declare that this gameObject is trackable by ObjectDatabase.

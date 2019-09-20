@@ -1,0 +1,9 @@
+{
+    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
+    "dependencies": {},
+    "description": "C# Expansions",
+    "displayName": "Eflatun.Expansions",
+    "license": "MIT",
+    "name": "com.starikcetin.eflatun.expansions",
+    "version": "0.1.1"
+}
