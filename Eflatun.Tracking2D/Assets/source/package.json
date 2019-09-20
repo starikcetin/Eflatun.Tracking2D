@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+		"com.starikcetin.eflatun.unitycommon": "https://github.com/starikcetin/Eflatun.Expansions.git#0.0.3",
+		"com.starikcetin.eflatun.expansions": "https://github.com/starikcetin/Eflatun.Expansions.git#0.1.1"
+	},
+    "description": "This was an attempt to replace Unity's built-in 2D physics engine with only the features I wanted.",
+    "displayName": "Eflatun.Tracking2D",
+    "name": "com.starikcetin.eflatun.tracking2d",
+    "version": "0.0.1",
+	"licence": "MIT",
+	"author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)"
+}
