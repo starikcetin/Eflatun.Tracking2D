@@ -1,4 +1,4 @@
-This repository has UPM support. To install it, paste the following into your manifest's dependencies (Packages/manifest.json):
+This repository has UPM support. Paste the following into your dependencies (Packages/manifest.json):
 
     "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.2",
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#0.9.1",
