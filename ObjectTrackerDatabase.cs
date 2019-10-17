@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace starikcetin.Eflatun.Tracking2D
+namespace Eflatun.Tracking2D
 {
     /// <summary>
     /// Keeps records of all TrackedObjectDatas and their referances.
