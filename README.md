@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstarikcetin%2FEflatun.Tracking2D.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstarikcetin%2FEflatun.Tracking2D?ref=badge_shield)
+
 This repository has UPM support. Paste the following into your dependencies (Packages/manifest.json):
 
     "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.2",
@@ -22,3 +24,7 @@ License
 MIT license. Refer to the [LICENSE](https://github.com/starikcetin/Eflatun.Tracking2D/blob/master/LICENSE) file.
 
 Copyright (c) 2018 S. Tarık Çetin
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstarikcetin%2FEflatun.Tracking2D.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstarikcetin%2FEflatun.Tracking2D?ref=badge_large)
