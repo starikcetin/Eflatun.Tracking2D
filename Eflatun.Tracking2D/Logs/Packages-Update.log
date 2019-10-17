@@ -29,3 +29,11 @@ The following packages were added:
   com.unity.xr.legacyinputhelpers@2.0.2
 The following packages were updated:
   com.unity.package-manager-ui from version 1.9.11 to 2.2.0
+
+=== Thu Oct 17 19:34:27 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.1.0 to 1.1.2
