@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using starikcetin.Eflatun.UnityCommon.Utils.Calculation;
-using starikcetin.Eflatun.UnityCommon.Utils.CodePatterns;
+using Eflatun.Calculation;
+using Eflatun.CodePatterns;
 using UnityEngine;
 
-namespace starikcetin.Eflatun.Tracking2D
+namespace Eflatun.Tracking2D
 {
     public class ObjectTracker : GlobalSingleton<ObjectTracker>
     {

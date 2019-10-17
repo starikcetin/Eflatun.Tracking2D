@@ -1,8 +1,10 @@
 {
-    "name": "starikcetin.Eflatun.Tracking2D",
+    "name": "Eflatun.Tracking2D",
     "references": [
         "GUID:81137315edbcea844b9cef287833f005",
-        "GUID:9474b44b41c75ca4ba85a3a82e8376d9"
+        "GUID:42c2804766596fd4383f2d484efd3615",
+        "GUID:79d5424ecabb1704ab80e14d90b516e8",
+        "GUID:29c68639ab458bf478f9fe70c1c2799c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

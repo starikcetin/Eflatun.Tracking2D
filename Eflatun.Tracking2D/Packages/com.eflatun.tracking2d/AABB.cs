@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace starikcetin.Eflatun.Tracking2D
+namespace Eflatun.Tracking2D
 {
     /// <summary>
     /// Contains info about the AABB of a TrackedObjectData.
