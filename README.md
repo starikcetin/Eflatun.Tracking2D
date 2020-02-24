@@ -1,8 +1,4 @@
-This repository has UPM support. Paste the following into your dependencies (Packages/manifest.json):
-
-    "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git#1.1.2",
-    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git#0.9.1",
-    "com.starikcetin.eflatun.tracking2d": "https://github.com/starikcetin/Eflatun.Tracking2D.git#0.0.2",
+[![openupm](https://img.shields.io/npm/v/com.eflatun.tracking2d?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.eflatun.tracking2d/)
 
 # Eflatun.Tracking2D #
 
@@ -12,10 +8,13 @@ This was an attempt to replace Unity's built-in 2D physics engine wtih only the 
 
 I *may* convert this library to use Unity ECS once it becomes production-ready, but it is not certain.
 
-Dependencies
+Install
 ---
-- [Eflatun.Expansions](https://github.com/starikcetin/Eflatun.Expansions)
-- [Eflatun.UnityCommon](https://github.com/starikcetin/Eflatun.UnityCommon)
+
+```
+npm install -g openupm-cli
+openupm add com.eflatun.tracking2d
+```
 
 License
 ---
